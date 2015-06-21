@@ -1,0 +1,13 @@
+this is a utf-8 compatible a little shitty written xor encrypter and decrypter
+
+you may change the encrpytion keys as you desired and tear my code down
+
+working routine:
+	xorro_encode.py 
+		reads the README file and encrypts what is inside of it then creates a encoded file
+
+	xorro_decode.py
+		reads the encoded file and decodes it and prints the result
+
+
+you may use many bytes to encrypt, that is your performance issue.
